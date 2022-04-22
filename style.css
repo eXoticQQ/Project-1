@@ -1,3 +1,18 @@
-*{
-add styling here 
+body {
+    background-color: rgb(100, 224, 197);
+
+}
+
+#cocktail {
+    font-size: x-large;
+}
+
+#cocktail img{
+    width: 100%;
+    height: auto;
+}
+
+#results img{
+    width: 100%;
+    height: auto;
 }
